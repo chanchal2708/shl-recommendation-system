@@ -3,3 +3,6 @@ scikit-learn
 streamlit
 requests
 beautifulsoup4
+fastapi
+uvicorn
+pydantic
