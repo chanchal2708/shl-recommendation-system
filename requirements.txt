@@ -6,3 +6,5 @@ beautifulsoup4
 fastapi
 uvicorn
 pydantic
+sentence-transformers
+numpy
